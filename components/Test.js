@@ -14,7 +14,7 @@ const Test = () =>{
             margin: 40,
             flexDirection: 'row',
             padding: 20,
-            gap: 10,
+            
         }}>
             {/* container 1 starts here */}
             <View style={{
